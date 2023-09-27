@@ -8,7 +8,7 @@ This is the front-end for a Movie API application. It allows users to choose fro
 Backend  : Java Spring Boot
 <br>
 Frontend : React
-`<br>`
+<br>
 Database : MongoDB
-`<br>`
+<br>
 API      : TMDB
