@@ -6,7 +6,7 @@ This is the front-end for a Movie API application. It allows users to choose fro
 
 ## Technology
 Backend  : Java Spring Boot
-`<br>`
+<br>
 Frontend : React
 `<br>`
 Database : MongoDB
